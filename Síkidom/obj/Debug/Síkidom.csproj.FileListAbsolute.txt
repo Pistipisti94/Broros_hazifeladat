@@ -1,0 +1,2 @@
+C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\obj\Debug\Síkidom.csproj.AssemblyReference.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\obj\Debug\Síkidom.csproj.CoreCompileInputs.cache
