@@ -12,13 +12,13 @@ namespace Síkidom
         static void Main(string[] args)
         {
             List<Síkidom> síkidoms = new List<Síkidom>();
-            síkidoms.Add(new Negyzet(4,0,4,2));
-            síkidoms.Add(new Teglalap());
-            síkidoms.Add(new Kor());
+            síkidoms.Add(new Negyzet(10));
+            síkidoms.Add(new Teglalap(10,2));
+            síkidoms.Add(new Kor(5));
 
             foreach (var item in síkidoms)
             {
-                Console.WriteLine(item);
+                Console.WriteLine($"{item} - {item.Terulet()} - {item.Kerulet()}");
             }
 
             Console.ReadKey();

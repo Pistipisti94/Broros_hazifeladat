@@ -8,8 +8,19 @@ namespace Síkidom
 {
     internal class Kor : Síkidom
     {
-        public Kor(string neve, string szogekszama, int aoldal, int boldal, int terulet, int kerulet) : base(neve, szogekszama, aoldal, boldal, terulet, kerulet)
+        double sugar;
+        public Kor(double elsoparameter) : base("Kör", 0, elsoparameter, 0)
         {
+            this.sugar = elsoparameter;
         }
+        public override double Terulet()
+        {
+            return 2 * this.sugar * Math.PI;
+        }
+        public override double Kerulet()
+        {
+            return 2 * Math.PI * this.sugar;
+        }
+
     }
 }

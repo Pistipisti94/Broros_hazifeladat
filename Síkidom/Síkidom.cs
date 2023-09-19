@@ -6,27 +6,27 @@ using System.Threading.Tasks;
 
 namespace Síkidom
 {
-    internal class Síkidom
+    abstract class Síkidom
     {
         public string neve;
-        public string szogekszama;
-        public int aoldal;
-        public int boldal;
-        public int terulet;
-        public int kerulet;
+        public int szogekszama;
+        public double elsoparameter;
+        public double masodikparameter;
+        
 
         public override string ToString()
         {
             return this.neve;
         }
-        public Síkidom(string neve, string szogekszama, int aoldal, int boldal, int terulet, int kerulet)
+        abstract public double Terulet();
+        abstract public double Kerulet();
+
+        public Síkidom(string neve, int szogekszama, double elsoparameter, double masodikparameter)
         {
             this.neve = neve;
             this.szogekszama = szogekszama;
-            this.aoldal = aoldal;
-            this.boldal = boldal;
-            this.terulet = terulet;
-            this.kerulet = kerulet;
+            this.elsoparameter = elsoparameter;
+            this.masodikparameter = masodikparameter;
         }
     }
 }

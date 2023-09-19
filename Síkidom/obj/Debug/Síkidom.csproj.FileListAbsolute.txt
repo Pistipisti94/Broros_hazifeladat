@@ -1,2 +1,7 @@
 C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\obj\Debug\Síkidom.csproj.AssemblyReference.cache
 C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\obj\Debug\Síkidom.csproj.CoreCompileInputs.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\bin\Debug\Síkidom.exe.config
+C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\bin\Debug\Síkidom.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\bin\Debug\Síkidom.pdb
+C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\obj\Debug\Síkidom.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\Broros_hazifeladat\Síkidom\obj\Debug\Síkidom.pdb

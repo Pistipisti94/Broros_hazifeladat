@@ -8,8 +8,19 @@ namespace Síkidom
 {
     internal class Negyzet : Síkidom
     {
-        public Negyzet(int aoldal, int boldal, int terulet, int kerulet) : base("Négyzet", "4", aoldal, boldal, terulet, kerulet)
+        double aoldal;
+        public Negyzet(double elsoparameter) : base("Négyzet", 4, elsoparameter,0)
         {
+            this.aoldal = elsoparameter;
+        }
+
+        public override double Terulet()
+        {
+            return aoldal * aoldal;
+        }
+        public override double Kerulet()
+        {
+            return 4 * aoldal;
         }
     }
 }
