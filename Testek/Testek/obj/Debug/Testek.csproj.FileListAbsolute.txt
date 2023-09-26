@@ -1,0 +1,7 @@
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\Testek\Testek\bin\Debug\Testek.exe.config
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\Testek\Testek\bin\Debug\Testek.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\Testek\Testek\bin\Debug\Testek.pdb
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\Testek\Testek\obj\Debug\Testek.csproj.AssemblyReference.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\Testek\Testek\obj\Debug\Testek.csproj.CoreCompileInputs.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\Testek\Testek\obj\Debug\Testek.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\Testek\Testek\obj\Debug\Testek.pdb
